@@ -43,7 +43,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 //
 //        sceneView.scene.rootNode.addChildNode(node)
         
-        sceneView.autoenablesDefaultLighting = true
+          sceneView.autoenablesDefaultLighting = true
         
 //        // Create a new scene
 //        let diceScene = SCNScene(named: "art.scnassets/diceCollada.scn")!
